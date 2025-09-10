@@ -1,0 +1,5 @@
+{
+  "name": " Dress Fitton",
+  "description": "A virtual try-on application that uses AI to show you how a dress would look on you. Upload your photo and a photo of a dress to see the magic.",
+  "requestFramePermissions": []
+}
